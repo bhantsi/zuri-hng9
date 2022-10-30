@@ -1,9 +1,11 @@
-import './App.css';
+import React from 'react';
+import './index.css';
+import './components/Header'
 
 function App() {
   return (
     <div className="App">
-      <h1>Hello Dunia</h1>
+      
     </div>
   );
 }
